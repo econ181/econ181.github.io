@@ -1,0 +1,17 @@
+---
+title: "Home"
+output: html_document
+---
+
+This is the homepage for a soon-to-be-developed course on using R for etc etc.
+
+As you can see it is in the beginning stages of development.
+
+Use the navigation bar above to check out the site.
+
+```r
+here i can print in code format.
+```
+
+![R logo](https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png)
+
