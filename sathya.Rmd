@@ -9,6 +9,6 @@ output_dir: "."
 
 Here is where Sathya will put all his fancy advanced R concepts: 
 
-We can put the topics on separate pages:
-+ [and make a list](topic_1.html)
-+ [linking to new pages](topic_2.html)
+We can put the topics on separate pages:  
++ [and make a list](topic_1.html)  
++ [linking to new pages](topic_2.html)  
